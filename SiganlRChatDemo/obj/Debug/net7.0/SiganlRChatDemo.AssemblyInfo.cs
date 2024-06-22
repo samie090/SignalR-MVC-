@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SiganlRChatDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72130764a5c4c28a36f6fea76a5436205fc331f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SiganlRChatDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SiganlRChatDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

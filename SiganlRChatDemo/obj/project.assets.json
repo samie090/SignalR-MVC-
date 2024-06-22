@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\SiganlRChatDemo.csproj",
+      "projectUniqueName": "D:\\IT Data\\DotNet\\Examples\\SignalR\\SignalR on Git\\SignalR-ChatServer\\SiganlRChatDemo\\SiganlRChatDemo.csproj",
       "projectName": "SiganlRChatDemo",
-      "projectPath": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\SiganlRChatDemo.csproj",
+      "projectPath": "D:\\IT Data\\DotNet\\Examples\\SignalR\\SignalR on Git\\SignalR-ChatServer\\SiganlRChatDemo\\SiganlRChatDemo.csproj",
       "packagesPath": "C:\\Users\\samie\\.nuget\\packages\\",
-      "outputPath": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\obj\\",
+      "outputPath": "D:\\IT Data\\DotNet\\Examples\\SignalR\\SignalR on Git\\SignalR-ChatServer\\SiganlRChatDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samie\\AppData\\Roaming\\NuGet\\NuGet.Config",
