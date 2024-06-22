@@ -1,0 +1,159 @@
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.csproj.AssemblyReference.cache
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.AssemblyInfoInputs.cache
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.AssemblyInfo.cs
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.csproj.CoreCompileInputs.cache
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.RazorAssemblyInfo.cache
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.RazorAssemblyInfo.cs
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\appsettings.Development.json
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\appsettings.json
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\libman.json
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.staticwebassets.runtime.json
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.exe
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.deps.json
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.runtimeconfig.json
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.dll
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.pdb
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.SiganlRChatDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.SiganlRChatDemo.props
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SiganlRChatDemo.props
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SiganlRChatDemo.props
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.build.json
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.development.json
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\bundle\SiganlRChatDemo.styles.css
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\projectbundle\SiganlRChatDemo.bundle.scp.css
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.dll
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\refint\SiganlRChatDemo.dll
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.pdb
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.genruntimeconfig.cache
+D:\DotNet\Examples\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\ref\SiganlRChatDemo.dll
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\appsettings.Development.json
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\appsettings.json
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\libman.json
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.staticwebassets.runtime.json
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.exe
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.deps.json
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.runtimeconfig.json
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.dll
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.pdb
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.csproj.AssemblyReference.cache
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.AssemblyInfoInputs.cache
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.AssemblyInfo.cs
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.csproj.CoreCompileInputs.cache
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.RazorAssemblyInfo.cache
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.RazorAssemblyInfo.cs
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.SiganlRChatDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.SiganlRChatDemo.props
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SiganlRChatDemo.props
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SiganlRChatDemo.props
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.build.json
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.development.json
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\bundle\SiganlRChatDemo.styles.css
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\projectbundle\SiganlRChatDemo.bundle.scp.css
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.dll
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\refint\SiganlRChatDemo.dll
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.pdb
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.genruntimeconfig.cache
+D:\DotNet\Examples\New folder\SiganlRChatDemo\SiganlRChatDemo\obj\Debug\net7.0\ref\SiganlRChatDemo.dll
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\bin\Debug\net7.0\appsettings.Development.json
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\bin\Debug\net7.0\appsettings.json
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\bin\Debug\net7.0\libman.json
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.staticwebassets.runtime.json
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.exe
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.deps.json
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.runtimeconfig.json
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.dll
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.pdb
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.csproj.AssemblyReference.cache
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.AssemblyInfoInputs.cache
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.AssemblyInfo.cs
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.csproj.CoreCompileInputs.cache
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.RazorAssemblyInfo.cache
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.RazorAssemblyInfo.cs
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.SiganlRChatDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.SiganlRChatDemo.props
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SiganlRChatDemo.props
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SiganlRChatDemo.props
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.build.json
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.development.json
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\bundle\SiganlRChatDemo.styles.css
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\projectbundle\SiganlRChatDemo.bundle.scp.css
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.dll
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\refint\SiganlRChatDemo.dll
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.pdb
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.genruntimeconfig.cache
+D:\DotNet\Examples\SignalR\SiganlRChatDemo - Copy\SiganlRChatDemo\obj\Debug\net7.0\ref\SiganlRChatDemo.dll
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\appsettings.Development.json
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\appsettings.json
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\libman.json
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.staticwebassets.runtime.json
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.exe
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.deps.json
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.runtimeconfig.json
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.dll
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.pdb
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.csproj.AssemblyReference.cache
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.AssemblyInfoInputs.cache
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.AssemblyInfo.cs
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.csproj.CoreCompileInputs.cache
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.RazorAssemblyInfo.cache
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.RazorAssemblyInfo.cs
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.SiganlRChatDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.SiganlRChatDemo.props
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SiganlRChatDemo.props
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SiganlRChatDemo.props
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.build.json
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.development.json
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\bundle\SiganlRChatDemo.styles.css
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\projectbundle\SiganlRChatDemo.bundle.scp.css
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.dll
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\refint\SiganlRChatDemo.dll
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.pdb
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.genruntimeconfig.cache
+D:\DotNet\Examples\SignalR\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\ref\SiganlRChatDemo.dll
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\appsettings.Development.json
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\appsettings.json
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\libman.json
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.staticwebassets.runtime.json
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.exe
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.deps.json
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.runtimeconfig.json
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.dll
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\bin\Debug\net7.0\SiganlRChatDemo.pdb
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.AssemblyInfoInputs.cache
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.AssemblyInfo.cs
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.csproj.CoreCompileInputs.cache
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.RazorAssemblyInfo.cache
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.RazorAssemblyInfo.cs
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.SiganlRChatDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.SiganlRChatDemo.props
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SiganlRChatDemo.props
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SiganlRChatDemo.props
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.pack.json
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.build.json
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\staticwebassets.development.json
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\bundle\SiganlRChatDemo.styles.css
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\scopedcss\projectbundle\SiganlRChatDemo.bundle.scp.css
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.dll
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\refint\SiganlRChatDemo.dll
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.pdb
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\SiganlRChatDemo.genruntimeconfig.cache
+D:\IT Data\DotNet\Examples\SignalR\Web Chat Server\WebChatServer\SiganlRChatDemo\obj\Debug\net7.0\ref\SiganlRChatDemo.dll

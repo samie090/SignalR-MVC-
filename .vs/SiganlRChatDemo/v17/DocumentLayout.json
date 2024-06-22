@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF645D3-9465-44D1-921C-45FA0A9AB583}|SiganlRChatDemo\\SiganlRChatDemo.csproj|d:\\it data\\dotnet\\examples\\signalr\\web chat server\\webchatserver\\siganlrchatdemo\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF645D3-9465-44D1-921C-45FA0A9AB583}|SiganlRChatDemo\\SiganlRChatDemo.csproj|solutionrelative:siganlrchatdemo\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF645D3-9465-44D1-921C-45FA0A9AB583}|SiganlRChatDemo\\SiganlRChatDemo.csproj|d:\\it data\\dotnet\\examples\\signalr\\web chat server\\webchatserver\\siganlrchatdemo\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5BF645D3-9465-44D1-921C-45FA0A9AB583}|SiganlRChatDemo\\SiganlRChatDemo.csproj|solutionrelative:siganlrchatdemo\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF645D3-9465-44D1-921C-45FA0A9AB583}|SiganlRChatDemo\\SiganlRChatDemo.csproj|d:\\it data\\dotnet\\examples\\signalr\\web chat server\\webchatserver\\siganlrchatdemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF645D3-9465-44D1-921C-45FA0A9AB583}|SiganlRChatDemo\\SiganlRChatDemo.csproj|solutionrelative:siganlrchatdemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF645D3-9465-44D1-921C-45FA0A9AB583}|SiganlRChatDemo\\SiganlRChatDemo.csproj|d:\\it data\\dotnet\\examples\\signalr\\web chat server\\webchatserver\\siganlrchatdemo\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5BF645D3-9465-44D1-921C-45FA0A9AB583}|SiganlRChatDemo\\SiganlRChatDemo.csproj|solutionrelative:siganlrchatdemo\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF645D3-9465-44D1-921C-45FA0A9AB583}|SiganlRChatDemo\\SiganlRChatDemo.csproj|d:\\it data\\dotnet\\examples\\signalr\\web chat server\\webchatserver\\siganlrchatdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF645D3-9465-44D1-921C-45FA0A9AB583}|SiganlRChatDemo\\SiganlRChatDemo.csproj|solutionrelative:siganlrchatdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "SiganlRChatDemo\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "SiganlRChatDemo\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAADMAAACAZmZmZmYkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-21T08:13:54.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SiganlRChatDemo\\Program.cs",
+              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\Program.cs",
+              "RelativeToolTip": "SiganlRChatDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:48:38.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SiganlRChatDemo\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SiganlRChatDemo\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:48:38.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chat.js",
+              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "SiganlRChatDemo\\wwwroot\\js\\chat.js",
+              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "SiganlRChatDemo\\wwwroot\\js\\chat.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-21T07:48:37.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SiganlRChatDemo\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\SignalR\\Web Chat Server\\WebChatServer\\SiganlRChatDemo\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SiganlRChatDemo\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:48:38.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
